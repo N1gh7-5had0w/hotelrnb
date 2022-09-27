@@ -1,0 +1,37 @@
+/* body {
+	background-image: url("lobby.jpg");
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: 1366px 699px;
+} */
+	h1 { 	font-family: consolas;
+		font-size: 28px;
+		display: inline;
+		margin-top: 10px;
+		align: center;
+		}
+a.jump:link, a:visited {
+  background-color: white;
+  color: black;
+  padding: 10px 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.jump:hover, a:active {
+  color: white;
+}
+table.form {
+	font-size: 24px;
+	font-family: consolas;
+	width: 620px;
+	align: center;
+	border: 7px ridge black;
+}
+td {
+	border-bottom: 3px solid black;
+	padding: 7px;
+}
+td.textinput {
+	text-align: center;
+}
