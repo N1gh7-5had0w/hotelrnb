@@ -1,2 +1,2 @@
 # hotelrnb
-hotel maagement system
+hotel management system
